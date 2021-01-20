@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace progressbar_
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value = 75;
+
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value +=10 ;
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value -= 10;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "haftanin.günleri/1.0.0": {
+        "runtime": {
+          "haftanin.günleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "haftanin.günleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

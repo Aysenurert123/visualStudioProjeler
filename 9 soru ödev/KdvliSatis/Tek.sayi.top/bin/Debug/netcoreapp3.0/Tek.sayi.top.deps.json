@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Tek.sayi.top/1.0.0": {
+        "runtime": {
+          "Tek.sayi.top.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tek.sayi.top/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

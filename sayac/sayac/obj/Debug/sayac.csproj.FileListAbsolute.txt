@@ -1,0 +1,19 @@
+C:\Users\Hp\source\repos\sayac\sayac\bin\Debug\sayac.exe.config
+C:\Users\Hp\source\repos\sayac\sayac\bin\Debug\sayac.exe
+C:\Users\Hp\source\repos\sayac\sayac\bin\Debug\sayac.pdb
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.Form1.resources
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.Properties.Resources.resources
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.exe
+C:\Users\Hp\source\repos\sayac\sayac\obj\Debug\sayac.pdb
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\bin\Debug\sayac.exe.config
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\bin\Debug\sayac.exe
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\bin\Debug\sayac.pdb
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.Form1.resources
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.Properties.Resources.resources
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.exe
+C:\Users\Hp\Desktop\Yeni klasör (2)\sayac\sayac\obj\Debug\sayac.pdb

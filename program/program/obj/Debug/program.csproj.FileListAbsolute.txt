@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\program\program\bin\Debug\program.exe.config
+C:\Users\Admin\Desktop\visual\program\program\bin\Debug\program.exe
+C:\Users\Admin\Desktop\visual\program\program\bin\Debug\program.pdb
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.Form1.resources
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.exe
+C:\Users\Admin\Desktop\visual\program\program\obj\Debug\program.pdb

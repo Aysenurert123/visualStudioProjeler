@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\bin\Debug\formlar_arası_veri.exe.config
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\bin\Debug\formlar_arası_veri.exe
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\bin\Debug\formlar_arası_veri.pdb
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.Form1.resources
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.Form2.resources
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.Properties.Resources.resources
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.exe
+C:\Users\Hp\source\repos\formlar_arası_veri\formlar_arası_veri\obj\Debug\formlar_arası_veri.pdb

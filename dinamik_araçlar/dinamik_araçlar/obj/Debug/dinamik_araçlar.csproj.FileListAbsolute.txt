@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\bin\Debug\dinamik_araçlar.exe.config
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\bin\Debug\dinamik_araçlar.exe
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\bin\Debug\dinamik_araçlar.pdb
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.Form1.resources
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.Properties.Resources.resources
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.exe
+C:\Users\Hp\source\repos\dinamik_araçlar\dinamik_araçlar\obj\Debug\dinamik_araçlar.pdb

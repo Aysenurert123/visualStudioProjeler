@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\progressbar_\progressbar_\bin\Debug\progressbar_.exe.config
+C:\Users\Hp\source\repos\progressbar_\progressbar_\bin\Debug\progressbar_.exe
+C:\Users\Hp\source\repos\progressbar_\progressbar_\bin\Debug\progressbar_.pdb
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.Form1.resources
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.Properties.Resources.resources
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.exe
+C:\Users\Hp\source\repos\progressbar_\progressbar_\obj\Debug\progressbar_.pdb

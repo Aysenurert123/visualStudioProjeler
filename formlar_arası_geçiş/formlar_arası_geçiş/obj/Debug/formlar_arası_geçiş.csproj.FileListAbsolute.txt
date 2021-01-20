@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\bin\Debug\formlar_arası_geçiş.exe.config
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\bin\Debug\formlar_arası_geçiş.exe
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\bin\Debug\formlar_arası_geçiş.pdb
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.exe
+C:\Users\Hp\source\repos\formlar_arası_geçiş\formlar_arası_geçiş\obj\Debug\formlar_arası_geçiş.pdb

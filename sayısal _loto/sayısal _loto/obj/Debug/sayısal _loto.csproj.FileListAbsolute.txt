@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\bin\Debug\sayısal _loto.exe.config
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\bin\Debug\sayısal _loto.exe
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\bin\Debug\sayısal _loto.pdb
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal _loto.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal__loto.Form1.resources
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal__loto.Properties.Resources.resources
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal _loto.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal _loto.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal _loto.exe
+C:\Users\Hp\source\repos\sayısal _loto\sayısal _loto\obj\Debug\sayısal _loto.pdb

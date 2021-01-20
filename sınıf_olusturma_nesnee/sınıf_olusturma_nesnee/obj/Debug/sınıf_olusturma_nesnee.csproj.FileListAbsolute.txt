@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\bin\Debug\sınıf_olusturma_nesnee.exe.config
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\bin\Debug\sınıf_olusturma_nesnee.exe
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\bin\Debug\sınıf_olusturma_nesnee.pdb
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.Form1.resources
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.form2.resources
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.Properties.Resources.resources
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.exe
+C:\Users\Hp\source\repos\sınıf_olusturma_nesnee\sınıf_olusturma_nesnee\obj\Debug\sınıf_olusturma_nesnee.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\bin\Debug\int değişkeni 2.exe.config
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\bin\Debug\int değişkeni 2.exe
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\bin\Debug\int değişkeni 2.pdb
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\obj\Debug\int_değişkeni_2.Form1.resources
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\obj\Debug\int_değişkeni_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\obj\Debug\int değişkeni 2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\obj\Debug\int değişkeni 2.exe
+C:\Users\Admin\Desktop\visual\int değişkeni 2\int değişkeni 2\obj\Debug\int değişkeni 2.pdb

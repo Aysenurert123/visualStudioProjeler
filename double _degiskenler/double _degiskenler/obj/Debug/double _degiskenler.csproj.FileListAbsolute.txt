@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\bin\Debug\double _degiskenler.exe.config
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\bin\Debug\double _degiskenler.exe
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\bin\Debug\double _degiskenler.pdb
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\obj\Debug\double__degiskenler.Form1.resources
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\obj\Debug\double__degiskenler.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\obj\Debug\double _degiskenler.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\obj\Debug\double _degiskenler.exe
+C:\Users\Admin\Desktop\visual\double _degiskenler\double _degiskenler\obj\Debug\double _degiskenler.pdb

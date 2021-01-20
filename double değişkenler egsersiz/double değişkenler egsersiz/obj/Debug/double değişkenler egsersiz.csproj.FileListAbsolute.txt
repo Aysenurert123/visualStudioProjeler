@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\bin\Debug\double değişkenler egsersiz.exe.config
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\bin\Debug\double değişkenler egsersiz.exe
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\bin\Debug\double değişkenler egsersiz.pdb
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\obj\Debug\double_değişkenler_egsersiz.Form1.resources
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\obj\Debug\double_değişkenler_egsersiz.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\obj\Debug\double değişkenler egsersiz.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\obj\Debug\double değişkenler egsersiz.exe
+C:\Users\Admin\Desktop\visual\double değişkenler egsersiz\double değişkenler egsersiz\obj\Debug\double değişkenler egsersiz.pdb

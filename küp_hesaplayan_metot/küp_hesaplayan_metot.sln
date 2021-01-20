@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "küp_hesaplayan_metot", "küp_hesaplayan_metot\küp_hesaplayan_metot.csproj", "{A934A55D-363A-4526-B811-E52A6795C14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A934A55D-363A-4526-B811-E52A6795C14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A934A55D-363A-4526-B811-E52A6795C14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A934A55D-363A-4526-B811-E52A6795C14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A934A55D-363A-4526-B811-E52A6795C14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82295123-929E-4A33-8CBA-75DD626F5207}
+	EndGlobalSection
+EndGlobal

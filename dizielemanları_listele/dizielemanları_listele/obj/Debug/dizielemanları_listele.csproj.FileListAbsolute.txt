@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\bin\Debug\dizielemanları_listele.exe.config
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\bin\Debug\dizielemanları_listele.exe
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\bin\Debug\dizielemanları_listele.pdb
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.Form1.resources
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.Properties.Resources.resources
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.exe
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.pdb
+C:\Users\Hp\source\repos\dizielemanları_listele\dizielemanları_listele\obj\Debug\dizielemanları_listele.csprojAssemblyReference.cache

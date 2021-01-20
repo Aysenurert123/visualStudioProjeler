@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\exception__\exception__\bin\Debug\exception__.exe.config
+C:\Users\Hp\source\repos\exception__\exception__\bin\Debug\exception__.exe
+C:\Users\Hp\source\repos\exception__\exception__\bin\Debug\exception__.pdb
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.Form1.resources
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.Properties.Resources.resources
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.exe
+C:\Users\Hp\source\repos\exception__\exception__\obj\Debug\exception__.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ardısık_sayı_toplamları2", "ardısık_sayı_toplamları2\ardısık_sayı_toplamları2.csproj", "{F34335C0-BEDA-40A3-9ECB-78ED7840C21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34335C0-BEDA-40A3-9ECB-78ED7840C21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34335C0-BEDA-40A3-9ECB-78ED7840C21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34335C0-BEDA-40A3-9ECB-78ED7840C21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34335C0-BEDA-40A3-9ECB-78ED7840C21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD5613D-CAA9-43A9-AC9D-8A6742ECDD30}
+	EndGlobalSection
+EndGlobal

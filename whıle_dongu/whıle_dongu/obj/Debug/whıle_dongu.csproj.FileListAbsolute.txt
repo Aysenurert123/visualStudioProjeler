@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.Form1.resources
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.Properties.Resources.resources
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\bin\Debug\whıle_dongu.exe.config
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\bin\Debug\whıle_dongu.exe
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\bin\Debug\whıle_dongu.pdb
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.exe
+C:\Users\Hp\source\repos\whıle_dongu\whıle_dongu\obj\Debug\whıle_dongu.pdb

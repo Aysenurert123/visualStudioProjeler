@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe.config
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.pdb
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.Form1.resources
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.Properties.Resources.resources
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.exe
+C:\Users\Hp\source\repos\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.pdb

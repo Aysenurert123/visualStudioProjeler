@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\bin\Debug\int degişkeni.exe.config
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\bin\Debug\int degişkeni.exe
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\bin\Debug\int degişkeni.pdb
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\obj\Debug\int_degişkeni.Form1.resources
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\obj\Debug\int_degişkeni.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\obj\Debug\int degişkeni.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\obj\Debug\int degişkeni.exe
+C:\Users\Admin\Desktop\visual\int degişkeni\int degişkeni\obj\Debug\int degişkeni.pdb

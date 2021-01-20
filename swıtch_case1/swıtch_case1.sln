@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swıtch_case1", "swıtch_case1\swıtch_case1.csproj", "{E496DE70-3AED-4882-ACA5-6EF7E1164480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E496DE70-3AED-4882-ACA5-6EF7E1164480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E496DE70-3AED-4882-ACA5-6EF7E1164480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E496DE70-3AED-4882-ACA5-6EF7E1164480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E496DE70-3AED-4882-ACA5-6EF7E1164480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9DA340-B0F1-4FD6-8866-87926DA5BBB8}
+	EndGlobalSection
+EndGlobal

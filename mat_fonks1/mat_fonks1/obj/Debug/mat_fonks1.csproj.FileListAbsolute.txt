@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\bin\Debug\mat_fonks1.exe.config
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\bin\Debug\mat_fonks1.exe
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\bin\Debug\mat_fonks1.pdb
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.Form1.resources
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.Properties.Resources.resources
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.exe
+C:\Users\Hp\source\repos\mat_fonks1\mat_fonks1\obj\Debug\mat_fonks1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\bin\Debug\değişkenler 4 işlem.exe.config
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\bin\Debug\değişkenler 4 işlem.exe
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\bin\Debug\değişkenler 4 işlem.pdb
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler 4 işlem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler_4_işlem.Form1.resources
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler_4_işlem.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler 4 işlem.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler 4 işlem.exe
+C:\Users\Admin\Desktop\visual\değişkenler 4 işlem\değişkenler 4 işlem\obj\Debug\değişkenler 4 işlem.pdb

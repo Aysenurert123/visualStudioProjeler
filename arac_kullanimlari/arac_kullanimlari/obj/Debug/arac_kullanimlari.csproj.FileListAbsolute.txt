@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\bin\Debug\arac_kullanimlari.exe.config
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\bin\Debug\arac_kullanimlari.exe
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\bin\Debug\arac_kullanimlari.pdb
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.Form1.resources
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.exe
+C:\Users\Admin\Desktop\visual\arac_kullanimlari\arac_kullanimlari\obj\Debug\arac_kullanimlari.pdb

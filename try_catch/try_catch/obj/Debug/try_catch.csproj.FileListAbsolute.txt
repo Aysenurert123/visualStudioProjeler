@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\try_catch\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\Hp\source\repos\try_catch\try_catch\bin\Debug\try_catch.exe
+C:\Users\Hp\source\repos\try_catch\try_catch\bin\Debug\try_catch.pdb
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.Form1.resources
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.Properties.Resources.resources
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.exe
+C:\Users\Hp\source\repos\try_catch\try_catch\obj\Debug\try_catch.pdb

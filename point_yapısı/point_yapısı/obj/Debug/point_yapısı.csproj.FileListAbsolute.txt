@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\bin\Debug\point_yapısı.exe.config
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\bin\Debug\point_yapısı.exe
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\bin\Debug\point_yapısı.pdb
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.Form1.resources
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.Properties.Resources.resources
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.exe
+C:\Users\Hp\source\repos\point_yapısı\point_yapısı\obj\Debug\point_yapısı.pdb

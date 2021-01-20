@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\bin\Debug\operatorler__3.exe.config
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\bin\Debug\operatorler__3.exe
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\bin\Debug\operatorler__3.pdb
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.Form1.resources
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.Properties.Resources.resources
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.exe
+C:\Users\Hp\source\repos\operatorler__3\operatorler__3\obj\Debug\operatorler__3.pdb

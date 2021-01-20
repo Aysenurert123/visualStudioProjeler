@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\bin\Debug\uçak bilet rezarvasyon sistemi.exe.config
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\bin\Debug\uçak bilet rezarvasyon sistemi.exe
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\bin\Debug\uçak bilet rezarvasyon sistemi.pdb
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak bilet rezarvasyon sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak_bilet_rezarvasyon_sistemi.Form1.resources
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak_bilet_rezarvasyon_sistemi.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak bilet rezarvasyon sistemi.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak bilet rezarvasyon sistemi.exe
+C:\Users\Admin\Desktop\visual\uçak bilet rezarvasyon sistemi\uçak bilet rezarvasyon sistemi\obj\Debug\uçak bilet rezarvasyon sistemi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\bin\Debug\Geriye_deger_donduren_metot.exe.config
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\bin\Debug\Geriye_deger_donduren_metot.exe
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\bin\Debug\Geriye_deger_donduren_metot.pdb
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.Form1.resources
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.Properties.Resources.resources
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.exe
+C:\Users\Hp\source\repos\Geriye_deger_donduren_metot\Geriye_deger_donduren_metot\obj\Debug\Geriye_deger_donduren_metot.pdb

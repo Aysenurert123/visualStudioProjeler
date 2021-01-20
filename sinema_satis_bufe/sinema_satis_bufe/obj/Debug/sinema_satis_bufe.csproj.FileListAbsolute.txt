@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\bin\Debug\sinema_satis_bufe.exe.config
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\bin\Debug\sinema_satis_bufe.exe
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\bin\Debug\sinema_satis_bufe.pdb
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.Form1.resources
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.Properties.Resources.resources
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.exe
+C:\Users\Hp\source\repos\sinema_satis_bufe\sinema_satis_bufe\obj\Debug\sinema_satis_bufe.pdb

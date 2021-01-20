@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\bin\Debug\küp_hesaplayan_metot.exe.config
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\bin\Debug\küp_hesaplayan_metot.exe
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\bin\Debug\küp_hesaplayan_metot.pdb
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.Form1.resources
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.Properties.Resources.resources
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.exe
+C:\Users\Hp\source\repos\küp_hesaplayan_metot\küp_hesaplayan_metot\obj\Debug\küp_hesaplayan_metot.pdb

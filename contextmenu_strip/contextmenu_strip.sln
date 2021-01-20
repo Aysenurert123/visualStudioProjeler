@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contextmenu_strip", "contextmenu_strip\contextmenu_strip.csproj", "{50534D74-F9C4-4AC0-87C5-6D6413CB2073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50534D74-F9C4-4AC0-87C5-6D6413CB2073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50534D74-F9C4-4AC0-87C5-6D6413CB2073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50534D74-F9C4-4AC0-87C5-6D6413CB2073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50534D74-F9C4-4AC0-87C5-6D6413CB2073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362C5E39-571D-4F71-A194-72BF87E27DEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\int 4\int 4\bin\Debug\int 4.exe.config
+C:\Users\Admin\Desktop\visual\int 4\int 4\bin\Debug\int 4.exe
+C:\Users\Admin\Desktop\visual\int 4\int 4\bin\Debug\int 4.pdb
+C:\Users\Admin\Desktop\visual\int 4\int 4\obj\Debug\int_4.Form1.resources
+C:\Users\Admin\Desktop\visual\int 4\int 4\obj\Debug\int_4.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\int 4\int 4\obj\Debug\int 4.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\int 4\int 4\obj\Debug\int 4.exe
+C:\Users\Admin\Desktop\visual\int 4\int 4\obj\Debug\int 4.pdb

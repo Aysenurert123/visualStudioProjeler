@@ -1,0 +1,22 @@
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.exe
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.deps.json
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.runtimeconfig.json
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.dll
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.pdb
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.AssemblyInfo.cs
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.dll
+C:\Users\Hp\source\repos\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.pdb
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.exe
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.deps.json
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.runtimeconfig.json
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.dll
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\bin\Debug\netcoreapp3.0\yüzde.hesaplama.pdb
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.AssemblyInfo.cs
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.dll
+C:\Users\Hp\Desktop\10 soru ödev\yüzde.hesaplama\yüzde.hesaplama\obj\Debug\netcoreapp3.0\yüzde.hesaplama.pdb

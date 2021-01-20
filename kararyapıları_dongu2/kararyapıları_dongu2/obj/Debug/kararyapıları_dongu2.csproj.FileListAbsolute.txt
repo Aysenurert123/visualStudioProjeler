@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\bin\Debug\kararyapıları_dongu2.exe.config
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\bin\Debug\kararyapıları_dongu2.exe
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\bin\Debug\kararyapıları_dongu2.pdb
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.Form1.resources
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.Properties.Resources.resources
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.exe
+C:\Users\Hp\source\repos\kararyapıları_dongu2\kararyapıları_dongu2\obj\Debug\kararyapıları_dongu2.pdb

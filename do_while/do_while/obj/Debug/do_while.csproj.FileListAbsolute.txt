@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\do_while\do_while\bin\Debug\do_while.exe.config
+C:\Users\Hp\source\repos\do_while\do_while\bin\Debug\do_while.exe
+C:\Users\Hp\source\repos\do_while\do_while\bin\Debug\do_while.pdb
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.Form1.resources
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.Properties.Resources.resources
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.exe
+C:\Users\Hp\source\repos\do_while\do_while\obj\Debug\do_while.pdb

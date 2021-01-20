@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\bin\Debug\char_degiskeni2.exe.config
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\bin\Debug\char_degiskeni2.exe
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\bin\Debug\char_degiskeni2.pdb
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.Form1.resources
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.Properties.Resources.resources
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.exe
+C:\Users\Hp\source\repos\char_degiskeni2\char_degiskeni2\obj\Debug\char_degiskeni2.pdb

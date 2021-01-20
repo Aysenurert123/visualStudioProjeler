@@ -1,0 +1,26 @@
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.exe.config
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.exe
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.pdb
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.FrmKullanıcı.resources
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.FrmSifre.resources
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.Properties.Resources.resources
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.exe
+C:\Users\Hp\source\repos\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.exe.config
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\giris_ekranı_projesi.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.FrmKullanıcı.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.FrmSifre.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.FrmYeni.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.Properties.Resources.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\Dapper.dll
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\bin\Debug\Dapper.xml
+C:\Users\Hp\Desktop\visual studio 2019 projeler\giris_ekranı_projesi\giris_ekranı_projesi\obj\Debug\giris_ekranı_projesi.csproj.CopyComplete

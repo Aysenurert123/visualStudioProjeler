@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.exe.config
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.exe
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.pdb
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.Form1.resources
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.Properties.Resources.resources
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.exe
+C:\Users\Hp\source\repos\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.pdb
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.exe.config
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.exe
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\bin\Debug\Alısveris_indirim_tutar.pdb
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csprojAssemblyReference.cache
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.Form1.resources
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.Properties.Resources.resources
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csproj.GenerateResource.cache
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.csproj.CoreCompileInputs.cache
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.exe
+D:\3.SINIF NOT\PROJELER\visual studio 2019 projeler\Alısveris_indirim_tutar\Alısveris_indirim_tutar\obj\Debug\Alısveris_indirim_tutar.pdb

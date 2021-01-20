@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.exe
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.deps.json
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.runtimeconfig.json
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.dll
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\bin\Debug\netcoreapp3.0\carpim.toplam.pdb
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\obj\Debug\netcoreapp3.0\carpim.toplam.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\obj\Debug\netcoreapp3.0\carpim.toplam.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\obj\Debug\netcoreapp3.0\carpim.toplam.AssemblyInfo.cs
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\obj\Debug\netcoreapp3.0\carpim.toplam.dll
+C:\Users\Hp\source\repos\carpim.toplam\carpim.toplam\obj\Debug\netcoreapp3.0\carpim.toplam.pdb

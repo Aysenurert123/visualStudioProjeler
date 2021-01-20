@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\dizi__\dizi__\bin\Debug\dizi__.exe.config
+C:\Users\Hp\source\repos\dizi__\dizi__\bin\Debug\dizi__.exe
+C:\Users\Hp\source\repos\dizi__\dizi__\bin\Debug\dizi__.pdb
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.Form1.resources
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.Properties.Resources.resources
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.exe
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.pdb
+C:\Users\Hp\source\repos\dizi__\dizi__\obj\Debug\dizi__.csprojAssemblyReference.cache

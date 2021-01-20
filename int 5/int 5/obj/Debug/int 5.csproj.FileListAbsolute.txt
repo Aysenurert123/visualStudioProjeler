@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\int 5\int 5\bin\Debug\int 5.exe.config
+C:\Users\Admin\Desktop\visual\int 5\int 5\bin\Debug\int 5.exe
+C:\Users\Admin\Desktop\visual\int 5\int 5\bin\Debug\int 5.pdb
+C:\Users\Admin\Desktop\visual\int 5\int 5\obj\Debug\int_5.Form1.resources
+C:\Users\Admin\Desktop\visual\int 5\int 5\obj\Debug\int_5.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\int 5\int 5\obj\Debug\int 5.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\int 5\int 5\obj\Debug\int 5.exe
+C:\Users\Admin\Desktop\visual\int 5\int 5\obj\Debug\int 5.pdb

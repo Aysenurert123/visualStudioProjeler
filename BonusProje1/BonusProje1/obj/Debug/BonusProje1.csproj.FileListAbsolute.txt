@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmOgrenciNotlar.resources
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.pdb
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmÖgretmen.resources
+C:\Users\Hp\source\repos\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmKulüp.resources

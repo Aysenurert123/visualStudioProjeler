@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\bin\Debug\swiıtch_case2.exe.config
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\bin\Debug\swiıtch_case2.exe
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\bin\Debug\swiıtch_case2.pdb
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.Form1.resources
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.Properties.Resources.resources
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.exe
+C:\Users\Hp\source\repos\swiıtch_case2\swiıtch_case2\obj\Debug\swiıtch_case2.pdb

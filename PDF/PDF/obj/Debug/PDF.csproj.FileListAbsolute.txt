@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\PDF\PDF\bin\Debug\PDF.exe.config
+C:\Users\Hp\source\repos\PDF\PDF\bin\Debug\PDF.exe
+C:\Users\Hp\source\repos\PDF\PDF\bin\Debug\PDF.pdb
+C:\Users\Hp\source\repos\PDF\PDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Hp\source\repos\PDF\PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.csproj.ResolveComReference.cache
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.Form1.resources
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.Properties.Resources.resources
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.exe
+C:\Users\Hp\source\repos\PDF\PDF\obj\Debug\PDF.pdb

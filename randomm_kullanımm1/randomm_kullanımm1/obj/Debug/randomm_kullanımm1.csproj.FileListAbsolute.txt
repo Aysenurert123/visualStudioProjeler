@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\bin\Debug\randomm_kullanımm1.exe.config
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\bin\Debug\randomm_kullanımm1.exe
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\bin\Debug\randomm_kullanımm1.pdb
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.Form1.resources
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.Properties.Resources.resources
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.exe
+C:\Users\Hp\source\repos\randomm_kullanımm1\randomm_kullanımm1\obj\Debug\randomm_kullanımm1.pdb

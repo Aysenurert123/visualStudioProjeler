@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\bin\Debug\swıtch_case1.exe.config
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\bin\Debug\swıtch_case1.exe
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\bin\Debug\swıtch_case1.pdb
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.Form1.resources
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.Properties.Resources.resources
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.exe
+C:\Users\Hp\source\repos\swıtch_case1\swıtch_case1\obj\Debug\swıtch_case1.pdb

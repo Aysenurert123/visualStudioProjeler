@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\constructor__\constructor__\bin\Debug\netcoreapp2.1\constructor__.deps.json
+C:\Users\Hp\source\repos\constructor__\constructor__\bin\Debug\netcoreapp2.1\constructor__.runtimeconfig.json
+C:\Users\Hp\source\repos\constructor__\constructor__\bin\Debug\netcoreapp2.1\constructor__.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\constructor__\constructor__\bin\Debug\netcoreapp2.1\constructor__.dll
+C:\Users\Hp\source\repos\constructor__\constructor__\bin\Debug\netcoreapp2.1\constructor__.pdb
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.AssemblyInfo.cs
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.dll
+C:\Users\Hp\source\repos\constructor__\constructor__\obj\Debug\netcoreapp2.1\constructor__.pdb

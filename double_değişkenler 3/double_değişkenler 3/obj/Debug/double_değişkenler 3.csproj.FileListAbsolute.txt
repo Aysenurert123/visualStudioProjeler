@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\bin\Debug\double_değişkenler 3.exe.config
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\bin\Debug\double_değişkenler 3.exe
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\bin\Debug\double_değişkenler 3.pdb
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler 3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler_3.Form1.resources
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler_3.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler 3.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler 3.exe
+C:\Users\Admin\Desktop\visual\double_değişkenler 3\double_değişkenler 3\obj\Debug\double_değişkenler 3.pdb

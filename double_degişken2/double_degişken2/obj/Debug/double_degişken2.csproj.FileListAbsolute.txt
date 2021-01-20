@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\bin\Debug\double_degişken2.exe.config
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\bin\Debug\double_degişken2.exe
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\bin\Debug\double_degişken2.pdb
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.Form1.resources
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.exe
+C:\Users\Admin\Desktop\visual\double_degişken2\double_degişken2\obj\Debug\double_degişken2.pdb

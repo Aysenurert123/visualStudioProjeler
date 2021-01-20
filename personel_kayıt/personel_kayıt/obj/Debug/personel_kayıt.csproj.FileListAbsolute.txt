@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Form1.resources
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Admin\Desktop\visual\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Frmİstatistik.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmAnaForm.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmGrafikler.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmGiris.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmRaporlar.resources

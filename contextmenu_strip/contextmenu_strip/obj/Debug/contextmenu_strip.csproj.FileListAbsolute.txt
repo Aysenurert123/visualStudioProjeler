@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\bin\Debug\contextmenu_strip.exe.config
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\bin\Debug\contextmenu_strip.exe
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\bin\Debug\contextmenu_strip.pdb
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.Form1.resources
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.Properties.Resources.resources
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.exe
+C:\Users\Hp\source\repos\contextmenu_strip\contextmenu_strip\obj\Debug\contextmenu_strip.pdb

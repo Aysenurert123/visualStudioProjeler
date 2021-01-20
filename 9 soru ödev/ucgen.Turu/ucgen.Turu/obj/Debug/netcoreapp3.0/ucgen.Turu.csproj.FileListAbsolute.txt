@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.exe
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.deps.json
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.runtimeconfig.json
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.dll
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\bin\Debug\netcoreapp3.0\ucgen.Turu.pdb
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\obj\Debug\netcoreapp3.0\ucgen.Turu.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\obj\Debug\netcoreapp3.0\ucgen.Turu.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\obj\Debug\netcoreapp3.0\ucgen.Turu.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\obj\Debug\netcoreapp3.0\ucgen.Turu.dll
+C:\Users\Hp\source\repos\ucgen.Turu\ucgen.Turu\obj\Debug\netcoreapp3.0\ucgen.Turu.pdb

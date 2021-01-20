@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\bin\Debug\pasta_pişirme_süreç.exe.config
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\bin\Debug\pasta_pişirme_süreç.exe
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\bin\Debug\pasta_pişirme_süreç.pdb
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.Form1.resources
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.Properties.Resources.resources
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.exe
+C:\Users\Hp\source\repos\pasta_pişirme_süreç\pasta_pişirme_süreç\obj\Debug\pasta_pişirme_süreç.pdb

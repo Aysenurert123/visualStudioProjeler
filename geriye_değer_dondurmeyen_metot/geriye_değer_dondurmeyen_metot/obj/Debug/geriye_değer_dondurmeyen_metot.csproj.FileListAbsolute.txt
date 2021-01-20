@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\bin\Debug\geriye_değer_dondurmeyen_metot.exe.config
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\bin\Debug\geriye_değer_dondurmeyen_metot.exe
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\bin\Debug\geriye_değer_dondurmeyen_metot.pdb
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.Form1.resources
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.Properties.Resources.resources
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.exe
+C:\Users\Hp\source\repos\geriye_değer_dondurmeyen_metot\geriye_değer_dondurmeyen_metot\obj\Debug\geriye_değer_dondurmeyen_metot.pdb

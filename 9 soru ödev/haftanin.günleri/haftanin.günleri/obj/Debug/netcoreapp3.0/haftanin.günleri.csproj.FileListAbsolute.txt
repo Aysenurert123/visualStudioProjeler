@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\obj\Debug\netcoreapp3.0\haftanin.günleri.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\obj\Debug\netcoreapp3.0\haftanin.günleri.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\obj\Debug\netcoreapp3.0\haftanin.günleri.AssemblyInfo.cs
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.exe
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.deps.json
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.runtimeconfig.json
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.dll
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\bin\Debug\netcoreapp3.0\haftanin.günleri.pdb
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\obj\Debug\netcoreapp3.0\haftanin.günleri.dll
+C:\Users\Hp\source\repos\haftanin.günleri\haftanin.günleri\obj\Debug\netcoreapp3.0\haftanin.günleri.pdb

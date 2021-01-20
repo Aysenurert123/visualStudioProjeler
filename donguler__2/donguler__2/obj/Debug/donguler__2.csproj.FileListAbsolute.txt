@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\donguler__2\donguler__2\bin\Debug\donguler__2.exe.config
+C:\Users\Hp\source\repos\donguler__2\donguler__2\bin\Debug\donguler__2.exe
+C:\Users\Hp\source\repos\donguler__2\donguler__2\bin\Debug\donguler__2.pdb
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.Form1.resources
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.Properties.Resources.resources
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.exe
+C:\Users\Hp\source\repos\donguler__2\donguler__2\obj\Debug\donguler__2.pdb

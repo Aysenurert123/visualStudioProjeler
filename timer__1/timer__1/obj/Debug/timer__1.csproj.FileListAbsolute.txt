@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\timer__1\timer__1\bin\Debug\timer__1.exe.config
+C:\Users\Hp\source\repos\timer__1\timer__1\bin\Debug\timer__1.exe
+C:\Users\Hp\source\repos\timer__1\timer__1\bin\Debug\timer__1.pdb
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.Form1.resources
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.Properties.Resources.resources
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.exe
+C:\Users\Hp\source\repos\timer__1\timer__1\obj\Debug\timer__1.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\bin\Debug\timer__1.exe.config
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\bin\Debug\timer__1.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\bin\Debug\timer__1.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.Form1.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.Properties.Resources.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\timer__1\timer__1\obj\Debug\timer__1.pdb

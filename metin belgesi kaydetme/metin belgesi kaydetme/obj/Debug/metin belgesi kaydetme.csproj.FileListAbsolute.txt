@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\bin\Debug\metin belgesi kaydetme.exe.config
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\bin\Debug\metin belgesi kaydetme.exe
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\bin\Debug\metin belgesi kaydetme.pdb
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin belgesi kaydetme.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin_belgesi_kaydetme.Form1.resources
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin_belgesi_kaydetme.Properties.Resources.resources
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin belgesi kaydetme.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin belgesi kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin belgesi kaydetme.exe
+C:\Users\Hp\source\repos\metin belgesi kaydetme\metin belgesi kaydetme\obj\Debug\metin belgesi kaydetme.pdb

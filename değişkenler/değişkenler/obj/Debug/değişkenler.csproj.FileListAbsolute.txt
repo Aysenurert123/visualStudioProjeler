@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\bin\Debug\değişkenler.exe.config
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.Form1.resources
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\bin\Debug\değişkenler.exe
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\bin\Debug\değişkenler.pdb
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.exe
+C:\Users\Admin\Desktop\visual\değişkenler\değişkenler\obj\Debug\değişkenler.pdb

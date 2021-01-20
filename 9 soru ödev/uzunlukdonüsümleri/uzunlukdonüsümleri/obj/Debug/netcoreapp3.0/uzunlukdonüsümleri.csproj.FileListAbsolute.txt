@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.exe
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.deps.json
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.runtimeconfig.json
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.dll
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\bin\Debug\netcoreapp3.0\uzunlukdonüsümleri.pdb
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\obj\Debug\netcoreapp3.0\uzunlukdonüsümleri.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\obj\Debug\netcoreapp3.0\uzunlukdonüsümleri.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\obj\Debug\netcoreapp3.0\uzunlukdonüsümleri.AssemblyInfo.cs
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\obj\Debug\netcoreapp3.0\uzunlukdonüsümleri.dll
+C:\Users\Hp\source\repos\uzunlukdonüsümleri\uzunlukdonüsümleri\obj\Debug\netcoreapp3.0\uzunlukdonüsümleri.pdb

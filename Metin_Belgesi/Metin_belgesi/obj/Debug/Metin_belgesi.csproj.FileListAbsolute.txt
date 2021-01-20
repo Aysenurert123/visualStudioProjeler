@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\bin\Debug\Metin_belgesi.exe.config
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\bin\Debug\Metin_belgesi.exe
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\bin\Debug\Metin_belgesi.pdb
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.Form1.resources
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.Properties.Resources.resources
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.exe
+C:\Users\Hp\source\repos\Metin_belgesi\Metin_belgesi\obj\Debug\Metin_belgesi.pdb

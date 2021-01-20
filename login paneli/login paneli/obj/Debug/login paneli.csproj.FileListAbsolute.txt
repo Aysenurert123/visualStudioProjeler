@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\bin\Debug\login paneli.exe.config
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\bin\Debug\login paneli.exe
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\bin\Debug\login paneli.pdb
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\obj\Debug\login_paneli.Form1.resources
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\obj\Debug\login_paneli.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\obj\Debug\login paneli.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\obj\Debug\login paneli.exe
+C:\Users\Admin\Desktop\visual\login paneli\login paneli\obj\Debug\login paneli.pdb

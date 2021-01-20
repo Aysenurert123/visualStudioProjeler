@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\menu_strip\menu_strip\bin\Debug\menu_strip.exe.config
+C:\Users\Hp\source\repos\menu_strip\menu_strip\bin\Debug\menu_strip.exe
+C:\Users\Hp\source\repos\menu_strip\menu_strip\bin\Debug\menu_strip.pdb
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.Form1.resources
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.Properties.Resources.resources
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.exe
+C:\Users\Hp\source\repos\menu_strip\menu_strip\obj\Debug\menu_strip.pdb

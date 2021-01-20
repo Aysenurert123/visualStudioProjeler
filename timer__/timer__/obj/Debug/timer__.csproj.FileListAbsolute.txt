@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\timer__\timer__\bin\Debug\timer__.exe.config
+C:\Users\Hp\source\repos\timer__\timer__\bin\Debug\timer__.exe
+C:\Users\Hp\source\repos\timer__\timer__\bin\Debug\timer__.pdb
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.Form1.resources
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.Properties.Resources.resources
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.exe
+C:\Users\Hp\source\repos\timer__\timer__\obj\Debug\timer__.pdb

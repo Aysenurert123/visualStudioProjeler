@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.exe
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.deps.json
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.runtimeconfig.json
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.dll
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\bin\Debug\netcoreapp3.0\Tek.sayi.top.pdb
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\obj\Debug\netcoreapp3.0\Tek.sayi.top.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\obj\Debug\netcoreapp3.0\Tek.sayi.top.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\obj\Debug\netcoreapp3.0\Tek.sayi.top.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\obj\Debug\netcoreapp3.0\Tek.sayi.top.dll
+C:\Users\Hp\source\repos\Tek.sayi.top\Tek.sayi.top\obj\Debug\netcoreapp3.0\Tek.sayi.top.pdb

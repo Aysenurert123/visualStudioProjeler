@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe.config
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.pdb
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Form1.resources
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Properties.Resources.resources
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.exe
+C:\Users\Hp\source\repos\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe.config
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\bin\Debug\Kitaplık_Proje.pdb
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Form1.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.Properties.Resources.resources
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.exe
+C:\Users\Hp\Desktop\visual studio 2019 projeler\Kitaplık_Proje\Kitaplık_Proje\obj\Debug\Kitaplık_Proje.pdb

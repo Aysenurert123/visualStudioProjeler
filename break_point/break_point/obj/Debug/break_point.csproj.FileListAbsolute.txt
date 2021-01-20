@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.Form1.resources
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.Properties.Resources.resources
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\break_point\break_point\bin\Debug\break_point.exe.config
+C:\Users\Hp\source\repos\break_point\break_point\bin\Debug\break_point.exe
+C:\Users\Hp\source\repos\break_point\break_point\bin\Debug\break_point.pdb
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.exe
+C:\Users\Hp\source\repos\break_point\break_point\obj\Debug\break_point.pdb

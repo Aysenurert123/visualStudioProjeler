@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\donguler_1\donguler_1\bin\Debug\donguler_1.exe.config
+C:\Users\Hp\source\repos\donguler_1\donguler_1\bin\Debug\donguler_1.exe
+C:\Users\Hp\source\repos\donguler_1\donguler_1\bin\Debug\donguler_1.pdb
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.Form1.resources
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.Properties.Resources.resources
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.exe
+C:\Users\Hp\source\repos\donguler_1\donguler_1\obj\Debug\donguler_1.pdb

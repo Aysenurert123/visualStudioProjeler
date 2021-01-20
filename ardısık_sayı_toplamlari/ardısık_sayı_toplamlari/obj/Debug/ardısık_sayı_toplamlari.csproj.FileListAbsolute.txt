@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.Form1.resources
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.Properties.Resources.resources
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\bin\Debug\ardısık_sayı_toplamlari.exe.config
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\bin\Debug\ardısık_sayı_toplamlari.exe
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\bin\Debug\ardısık_sayı_toplamlari.pdb
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.exe
+C:\Users\Hp\source\repos\ardısık_sayı_toplamlari\ardısık_sayı_toplamlari\obj\Debug\ardısık_sayı_toplamlari.pdb

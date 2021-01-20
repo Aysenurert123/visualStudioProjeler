@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\bin\Debug\netcoreapp2.1\örnek_konsol.deps.json
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\bin\Debug\netcoreapp2.1\örnek_konsol.runtimeconfig.json
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\bin\Debug\netcoreapp2.1\örnek_konsol.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\bin\Debug\netcoreapp2.1\örnek_konsol.dll
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\bin\Debug\netcoreapp2.1\örnek_konsol.pdb
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.AssemblyInfo.cs
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.dll
+C:\Users\Hp\source\repos\örnek_konsol\örnek_konsol\obj\Debug\netcoreapp2.1\örnek_konsol.pdb

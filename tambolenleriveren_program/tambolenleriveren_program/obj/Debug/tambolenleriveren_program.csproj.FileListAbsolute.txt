@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.Form1.resources
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.Properties.Resources.resources
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\bin\Debug\tambolenleriveren_program.exe.config
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\bin\Debug\tambolenleriveren_program.exe
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\bin\Debug\tambolenleriveren_program.pdb
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.exe
+C:\Users\Hp\source\repos\tambolenleriveren_program\tambolenleriveren_program\obj\Debug\tambolenleriveren_program.pdb

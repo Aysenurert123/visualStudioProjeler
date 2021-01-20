@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\bin\Debug\int değişkeni 3.exe.config
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\bin\Debug\int değişkeni 3.exe
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\bin\Debug\int değişkeni 3.pdb
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\obj\Debug\int_değişkeni_3.Form1.resources
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\obj\Debug\int_değişkeni_3.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\obj\Debug\int değişkeni 3.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\obj\Debug\int değişkeni 3.exe
+C:\Users\Admin\Desktop\visual\int değişkeni 3\int değişkeni 3\obj\Debug\int değişkeni 3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.exe
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.deps.json
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.runtimeconfig.json
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.dll
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\bin\Debug\netcoreapp3.0\onsayininortalamasi.pdb
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\obj\Debug\netcoreapp3.0\onsayininortalamasi.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\obj\Debug\netcoreapp3.0\onsayininortalamasi.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\obj\Debug\netcoreapp3.0\onsayininortalamasi.AssemblyInfo.cs
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\obj\Debug\netcoreapp3.0\onsayininortalamasi.dll
+C:\Users\Hp\source\repos\onsayininortalamasi\onsayininortalamasi\obj\Debug\netcoreapp3.0\onsayininortalamasi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\bin\Debug\chart_grafikk.exe.config
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\bin\Debug\chart_grafikk.exe
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\bin\Debug\chart_grafikk.pdb
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.Form1.resources
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.Properties.Resources.resources
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.exe
+C:\Users\Hp\source\repos\chart_grafikk\chart_grafikk\obj\Debug\chart_grafikk.pdb

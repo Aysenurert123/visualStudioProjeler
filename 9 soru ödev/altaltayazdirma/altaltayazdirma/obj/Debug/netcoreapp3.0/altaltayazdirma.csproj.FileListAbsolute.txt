@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.exe
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.deps.json
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.runtimeconfig.json
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.dll
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\bin\Debug\netcoreapp3.0\altaltayazdirma.pdb
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\obj\Debug\netcoreapp3.0\altaltayazdirma.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\obj\Debug\netcoreapp3.0\altaltayazdirma.AssemblyInfo.cs
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\obj\Debug\netcoreapp3.0\altaltayazdirma.dll
+C:\Users\Hp\source\repos\altaltayazdirma\altaltayazdirma\obj\Debug\netcoreapp3.0\altaltayazdirma.pdb

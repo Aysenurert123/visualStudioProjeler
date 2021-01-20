@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\bin\Debug\tımer_dijitalsaat.exe.config
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\bin\Debug\tımer_dijitalsaat.exe
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\bin\Debug\tımer_dijitalsaat.pdb
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.Form1.resources
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.Properties.Resources.resources
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.exe
+C:\Users\Hp\source\repos\tımer_dijitalsaat\tımer_dijitalsaat\obj\Debug\tımer_dijitalsaat.pdb

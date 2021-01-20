@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\foreach__\foreach__\bin\Debug\foreach__.exe.config
+C:\Users\Hp\source\repos\foreach__\foreach__\bin\Debug\foreach__.exe
+C:\Users\Hp\source\repos\foreach__\foreach__\bin\Debug\foreach__.pdb
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.Form1.resources
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.Properties.Resources.resources
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.exe
+C:\Users\Hp\source\repos\foreach__\foreach__\obj\Debug\foreach__.pdb

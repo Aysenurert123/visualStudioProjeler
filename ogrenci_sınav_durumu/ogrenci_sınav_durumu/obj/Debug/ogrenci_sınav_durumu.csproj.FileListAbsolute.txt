@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.Form1.resources
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.Properties.Resources.resources
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\bin\Debug\ogrenci_sınav_durumu.exe.config
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\bin\Debug\ogrenci_sınav_durumu.exe
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\bin\Debug\ogrenci_sınav_durumu.pdb
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.exe
+C:\Users\Hp\source\repos\ogrenci_sınav_durumu\ogrenci_sınav_durumu\obj\Debug\ogrenci_sınav_durumu.pdb

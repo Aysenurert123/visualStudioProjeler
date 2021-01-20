@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\bin\Debug\checkbox rıchtextbox raddıobutton.exe.config
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\bin\Debug\checkbox rıchtextbox raddıobutton.exe
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\bin\Debug\checkbox rıchtextbox raddıobutton.pdb
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\obj\Debug\checkbox_rıchtextbox_raddıobutton.Form1.resources
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\obj\Debug\checkbox_rıchtextbox_raddıobutton.Properties.Resources.resources
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\obj\Debug\checkbox rıchtextbox raddıobutton.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\obj\Debug\checkbox rıchtextbox raddıobutton.exe
+C:\Users\Admin\Desktop\visual\checkbox rıchtextbox raddıobutton\checkbox rıchtextbox raddıobutton\obj\Debug\checkbox rıchtextbox raddıobutton.pdb
